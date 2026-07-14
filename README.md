@@ -1,4 +1,4 @@
-<!-- test release: 1.7.6-bottest (ttsdk-release skill iOS 双产物 smoke test) -->
+<!-- test release: 1.7.7-bottest (ttsdk-release skill 阶段八 review fix smoke test) -->
 > [!IMPORTANT]
 > Use of the TikTok App Events SDK is governed by the [TikTok For Business Commercial Terms of Service](https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service). By using the TikTok App Events SDK, you also agree to the [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/policy/business-products-terms) and that you will not share sensitive data with TikTok.
 
