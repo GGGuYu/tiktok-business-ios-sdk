@@ -1,4 +1,4 @@
-<!-- test release: 1.7.12-bottest (旧 skill 对照测试续) -->
+<!-- test release: 1.7.13-bottest (又一版对照测试) -->
 > [!IMPORTANT]
 > Use of the TikTok App Events SDK is governed by the [TikTok For Business Commercial Terms of Service](https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service). By using the TikTok App Events SDK, you also agree to the [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/policy/business-products-terms) and that you will not share sensitive data with TikTok.
 
